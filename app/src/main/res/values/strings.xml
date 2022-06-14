@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">小瑶记账</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="Day_greetings">今天也是元气满满的一天！</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="remember_password">记住密码</string>
+    <string name="login">登录</string>
+    <string name="sign_up">新用户注册</string>
+    <string name="Background">背景图</string>
+    <string name="income_and_outcome">收支</string>
+    <string name="inOutcome">收入</string>
+    <string name="outcome">支出</string>
+    <string name="loan">借贷</string>
+    <string name="budget">预算</string>
+    <string name="type">类别</string>
+    <string name="autofillHints">自动填写的信息</string>
+    <string name="input_amount">输入金额</string>
+    <string name="close_image">关闭图标</string>
+    <string name="source">种类</string>
+    <string name="create_button">新建按钮</string>
+    <string name="choose_time">选择时间</string>
+    <string name="budget_dialog_tx">每月总预算</string>
+    <string name="Remaining_budget">剩余预算:</string>
+    <string name="month_budget">本月预算:</string>
+    <string name="month_outcome">本月支出:</string>
+    <string name="input_loan_source">输入借贷来源</string>
+    <string name="out_overview">支出总览</string>
+    <string name="in_overview">收入总览</string>
+</resources>

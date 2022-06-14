@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--备忘标题单项-->
+<com.chauthai.swipereveallayout.SwipeRevealLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/swipe_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    app:dragEdge="right"
+    app:mode="same_level" >
+    <!--
+    app:mode=”same_level”表示拖动模式
+    app:dragEdge=”right”表示拖动方向
+    -->
+
+    <!--滑动后的布局-->
+    <FrameLayout
+        android:id="@+id/delete_layout"
+        android:layout_width="70dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="5dp"
+        android:clickable="true" >
+
+        <ImageView
+            android:id="@+id/IV_delete_memo"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/ic_delete_24"
+            android:background="@drawable/button_memo_delete"
+            android:layout_gravity="center"
+            android:layout_marginStart="5dp"
+            android:clickable="true"
+            android:contentDescription="@string/app_name" />
+    </FrameLayout>
+
+    <!--主布局-->
+    <FrameLayout
+        android:id="@+id/recyclerView_item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/memo_frame"
+        android:clickable="true" >
+
+        <!--备忘标题内容-->
+        <TextView
+            android:id="@+id/memo_title_item"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:ellipsize="end"
+            android:textSize="18sp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="5dp"
+            android:textColor="@color/black"
+            android:autoLink="all"
+            android:gravity="bottom" />
+
+        <!--部分备忘记事内容-->
+        <TextView
+            android:id="@+id/memo_content_item"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:ellipsize="end"
+            android:textSize="15sp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:paddingBottom="10dp"
+            android:textColor="#959393"
+            android:gravity="top"
+            android:layout_gravity="bottom"
+            android:layout_marginTop="40dp" />
+    </FrameLayout>
+</com.chauthai.swipereveallayout.SwipeRevealLayout>

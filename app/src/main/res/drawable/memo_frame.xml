@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 边框颜色值 -->
+    <item>
+        <shape>
+            <corners android:radius="20dp" />
+            <solid android:color="#DDDADA" /><!--下划线颜色-->
+        </shape>
+    </item>
+    <item android:bottom="1dp"> <!--下划线厚度-->
+        <shape>
+            <corners android:radius="20dp" />
+            <solid android:color="@color/white" /><!--背景色 不能透明否则会显示上面的下划线颜色-->
+        </shape>
+    </item>
+</layer-list>

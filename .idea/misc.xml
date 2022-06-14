@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.115" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/btn_search_weather.xml" value="0.121" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/btn_search_weather_focused.xml" value="0.121" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/btn_search_weather_normal.xml" value="0.121" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/btn_selector.xml" value="0.1015" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/btn_selector_focused.xml" value="0.1015" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/btn_selector_normal.xml" value="0.1015" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/button_main_interface.xml" value="0.1305" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/button_memo_delete.xml" value="0.1175" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/button_memo_delete_focused.xml" value="0.1175" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/button_memo_delete_normal.xml" value="0.1175" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/button_radius.xml" value="0.121" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/button_radius_focused.xml" value="0.121" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/button_radius_normal.xml" value="0.121" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/button_translate.xml" value="0.115" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/button_translate_focused.xml" value="0.113" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/button_translate_normal.xml" value="0.115" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/buttonshapewhitebg.xml" value="0.124" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/cycle_button.xml" value="0.115" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/cycle_button_draw.xml" value="0.181" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/cycle_button_drawable.xml" value="0.113" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/cycle_button_focused.xml" value="0.14666666666666667" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/cycle_button_normal.xml" value="0.115" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/ic_add_24.xml" value="0.1175" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/ic_baseline_autorenew_24.xml" value="0.121" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/ic_baseline_book_24.xml" value="0.1305" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/ic_baseline_cloud_24.xml" value="0.1175" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/ic_baseline_exchange_24.xml" value="0.1175" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/ic_baseline_person_white_24dp.xml" value="0.124" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/ic_calculate_24.xml" value="0.115" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/ic_check_24.xml" value="0.1175" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/ic_delete_24.xml" value="0.1175" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/ic_delete_forever_24.xml" value="0.1175" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/ic_launcher_background.xml" value="0.121" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/ic_lock_white_24dp.xml" value="0.124" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/ic_memorandum_24.xml" value="0.115" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/ic_shares_24.xml" value="0.115" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/idle_state_selector.xml" value="0.1305" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/in_out_frame.xml" value="0.13" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/inoutcome_frame.xml" value="0.112" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/memo_frame.xml" value="0.121" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/memo_underline.xml" value="0.121" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/my_location_24.xml" value="0.1175" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/round_button.xml" value="0.1305" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/tb_outcome_selector.xml" value="0.115" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/tb_text_selector.xml" value="0.115" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/title_textview_income_color.xml" value="0.115" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/title_textview_income_selector.xml" value="0.115" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/drawable/title_textview_outcome_text_color.xml" value="0.115" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/activity/layout-land/main_layout.xml" value="0.290625" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/activity/layout-sw600dp/main_layout.xml" value="0.544921875" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/activity/layout-v31/main_layout.xml" value="0.3138586956521739" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/activity/layout/bill_layout.xml" value="0.12" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/activity/layout/cal_layout.xml" value="0.1" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/activity/layout/calculator_layout.xml" value="0.13333333333333333" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/activity/layout/contacts_layout.xml" value="0.2049342105263158" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/activity/layout/dialog_layout.xml" value="0.10067873303167421" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/activity/layout/first_layout.xml" value="0.1" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/activity/layout/location_layout.xml" value="0.18611111111111112" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/activity/layout/login_layout.xml" value="0.14666666666666667" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/activity/layout/main_layout.xml" value="0.16666666666666666" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/activity/layout/memo_content.xml" value="0.10164473684210526" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/activity/layout/memo_layout.xml" value="0.16666666666666666" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/activity/layout/memo_title.xml" value="0.14666666666666667" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/activity/layout/news_content.xml" value="0.10067873303167421" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/activity/layout/news_layout.xml" value="0.10067873303167421" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/activity/layout/register_layout.xml" value="0.2049342105263158" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/activity/layout/second_layout.xml" value="0.1" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/activity/layout/shares_layout.xml" value="0.14666666666666667" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/activity/layout/sqlite_layout.xml" value="0.10296052631578947" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/activity/layout/test.xml" value="0.14666666666666667" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/activity/layout/translate_layout.xml" value="0.16666666666666666" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/activity/layout/video_layout.xml" value="0.10067873303167421" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/activity/layout/weather_layout.xml" value="0.16666666666666666" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/activity/layout/web_layout.xml" value="0.10067873303167421" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/fragment/layout-v31/translate_frag.xml" value="0.3138586956521739" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/fragment/layout/budget_frag.xml" value="0.19057377049180327" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/fragment/layout/fragment_main.xml" value="0.13333333333333333" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/fragment/layout/in_out_frag.xml" value="0.19057377049180327" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/fragment/layout/in_out_fragment.xml" value="0.16666666666666666" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/fragment/layout/loan_frag.xml" value="0.16666666666666666" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/fragment/layout/memo.xml" value="0.10296052631578947" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/fragment/layout/memo_content_frag.xml" value="0.1361111111111111" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/fragment/layout/memo_title_frag.xml" value="0.10296052631578947" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/fragment/layout/news_content_frag.xml" value="0.1" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/fragment/layout/pager_fragment.xml" value="0.14666666666666667" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/fragment/layout/recyclerview_layout.xml" value="0.10067873303167421" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/fragment/layout/shares_frag.xml" value="0.2049342105263158" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/fragment/layout/title.xml" value="0.1" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/fragment/layout/trans_frag.xml" value="0.2049342105263158" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/fragment/layout/translate_frag.xml" value="0.14666666666666667" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/fragment/layout/type_frag.xml" value="0.16666666666666666" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/fragment/layout/weather_frag.xml" value="0.2049342105263158" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/fragment/layout/web_layout.xml" value="0.2049342105263158" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/item/drawable/icn_close.xml" value="0.1305" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/item/layout/budget_dialog_item.xml" value="0.14666666666666667" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/item/layout/fragment_item.xml" value="0.1" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/item/layout/fragment_item_list.xml" value="0.1" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/item/layout/fruit_item.xml" value="0.12801302931596092" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/item/layout/http_layout.xml" value="0.1" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/item/layout/in_out_dialog_item.xml" value="0.33859223300970875" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/item/layout/income_item.xml" value="0.1671875" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/item/layout/kind_time_value.xml" value="0.16666666666666666" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/item/layout/layout_weather.xml" value="0.2049342105263158" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/item/layout/loan_dialog_item.xml" value="0.14666666666666667" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/item/layout/loan_item.xml" value="0.16666666666666666" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/item/layout/memo_item.xml" value="0.10296052631578947" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/item/layout/memo_title_item.xml" value="0.16666666666666666" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/item/layout/msg_item.xml" value="0.12801302931596092" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/item/layout/news_item.xml" value="0.12801302931596092" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/item/layout/register_layout.xml" value="0.2049342105263158" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/item/layout/showmap_layout.xml" value="0.10902777777777778" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/item/layout/title.xml" value="0.14666666666666667" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/item/layout/weather_item.xml" value="0.14305555555555555" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/layouts/xml/root_preferences.xml" value="0.10067873303167421" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.14666666666666667" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/menu/main.xml" value="0.12777777777777777" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/menu/menu_content.xml" value="0.2049342105263158" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/menu/menu_main.xml" value="0.2049342105263158" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/menu/menu_memo.xml" value="0.16666666666666666" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/menu/menu_memo_content.xml" value="0.13125" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/menu/menu_memo_title.xml" value="0.16666666666666666" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/menu/test.xml" value="0.1" />
+        <entry key="..\:/Android/ActivityTest/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.13" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

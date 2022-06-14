@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Activity.MemoTitleActivity">
+
+    <item
+        android:id="@+id/add_memo"
+        android:icon="@drawable/ic_add_24"
+        android:title="add"
+        app:showAsAction="ifRoom" />
+
+    <!--<item
+        android:id="@+id/delete_memo"
+        android:icon="@drawable/ic_delete_24"
+        android:title="delete"
+        app:showAsAction="ifRoom" />-->
+
+    <!--showAsAction指定此菜单项在应用栏中作为操作项显示的时间和方式。
+    never表示不得将此项放在应用栏中，而应将其列在应用栏的溢出菜单中。
+        orderInCategory：整数，子项在组内的“重要性”顺序。-->
+</menu>

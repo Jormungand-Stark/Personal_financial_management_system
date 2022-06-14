@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/button_sendNotice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="send notice"/>
+
+    <Button
+        android:id="@+id/button_takePhoto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="take photo"/>
+
+    <ImageView
+        android:id="@+id/picture"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"/>
+
+    <Button
+        android:id="@+id/button_album"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="从相册选取照片显示"/>
+
+</LinearLayout>

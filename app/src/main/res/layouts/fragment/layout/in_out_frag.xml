@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <com.google.android.material.tabs.TabLayout
+            android:id="@+id/in_out_TabLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Linen"
+            app:tabSelectedTextColor="@color/vivid_green"
+            app:tabTextColor="@color/black"
+            app:tabRippleColor="@color/vivid_green">
+
+
+            <com.google.android.material.tabs.TabItem
+                android:id="@+id/TI_income"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/inOutcome"/>
+
+            <com.google.android.material.tabs.TabItem
+                android:id="@+id/TI_outcome"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/outcome"/>
+        </com.google.android.material.tabs.TabLayout>
+
+        <TextView
+            android:id="@+id/total_bill"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="5dp"
+            android:gravity="center" />
+
+        <FrameLayout
+            android:id="@+id/content_fragment"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <!--<androidx.core.widget.NestedScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fillViewport="true"
+                app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+            </androidx.core.widget.NestedScrollView>-->
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/RV_in_out"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+            </androidx.recyclerview.widget.RecyclerView>
+        </FrameLayout>
+    </LinearLayout>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/add_in_out_item"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:clickable="true"
+        android:contentDescription="@string/create_button"
+        android:src="@drawable/cycle_button_drawable"
+        android:backgroundTint="@color/vivid_green"
+        app:rippleColor="@color/teal_700"
+        app:maxImageSize="35dp"
+        app:layout_anchor="@id/RV_in_out"
+        app:layout_anchorGravity="right|bottom"
+        app:hoveredFocusedTranslationZ="350dp" />
+    <!-- android:backgroundTint FAB的背景颜色 -->
+    <!-- app:rippleColor 点击FAB时，形成的水波纹颜色-->
+    <!-- app:maxImageSize 背景图片的大小 -->
+    <!-- app:useCompatPadding 为true时，FAB会自动在四周设定一个合适的padding-->
+    <!-- app:layout_anchor 设置FAB的锚点，即以哪个控件为参照设置位置-->
+    <!-- app:layout_anchorGravity FAB相对于锚点的位置-->
+    <!-- layout_anchor和layout_anchorGravity属性，只有配合CoordinatorLayout控件才会生效。-->
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

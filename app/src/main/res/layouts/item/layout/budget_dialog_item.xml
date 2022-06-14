@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/budget_dialog_tx"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:ellipsize="end"
+        android:paddingTop="30dp"
+        android:textSize="25dp"
+        android:fontFamily="@font/calibri"
+        android:hint="@string/budget_dialog_tx"
+        android:gravity="center"
+        android:textColor="@color/light_sky_blue" />
+
+    <EditText
+        android:id="@+id/budget_dialog_et"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请输入每月预算金额"
+        android:gravity="center"
+        android:maxLength="8"
+        android:inputType="numberDecimal"
+        android:theme="@style/MemoEditText" />
+
+</LinearLayout>

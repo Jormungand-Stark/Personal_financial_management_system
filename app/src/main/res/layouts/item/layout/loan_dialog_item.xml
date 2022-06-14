@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <Spinner
+        android:id="@+id/loan_kind_spinner"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.3"
+        android:dropDownWidth="wrap_content"
+        android:overlapAnchor="false"
+        android:spinnerMode="dialog" />
+
+    <TextView
+        android:id="@+id/TV_loan_time"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:singleLine="true"
+        android:ellipsize="end"
+        android:hint="@string/choose_time"
+        android:gravity="center"
+        android:textSize="15sp"
+        android:clickable="true"
+        android:textColor="@color/black" />
+
+    <EditText
+        android:id="@+id/ED_loan_amount"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:autofillHints="null"
+        android:hint="@string/input_amount"
+        android:maxLength="8"
+        android:imeOptions="flagNoExtractUi"
+        android:inputType="numberDecimal"
+        android:minHeight="48dp"
+        android:theme="@style/MemoEditText" />
+</LinearLayout>

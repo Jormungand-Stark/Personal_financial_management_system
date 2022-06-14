@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/BN_in_outcome"
+        android:enabled="true"
+        android:icon="@drawable/bag"
+        android:title="@string/income_and_outcome"/>
+    <item
+        android:id="@+id/BN_loan"
+        android:enabled="true"
+        android:icon="@drawable/shopping"
+        android:title="@string/loan"/>
+    <item
+        android:id="@+id/BN_budget"
+        android:enabled="true"
+        android:icon="@drawable/book"
+        android:title="@string/budget"/>
+    <item
+        android:id="@+id/BN_type"
+        android:enabled="true"
+        android:icon="@drawable/home"
+        android:title="@string/type"/>
+</menu>
